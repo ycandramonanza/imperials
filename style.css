@@ -139,6 +139,7 @@
     }
     .content .container img{
         margin-top: -100px;
+        margin-left: -10px;
         width: 450px;
     }
     .content-isi .container .row .col-12{
@@ -149,8 +150,8 @@
         margin-bottom: 30px;
     }
     .content-isi .container img{
-        margin-left: -30px;
-        width: 500px;
+        margin-left: -20px;
+        width: 400px;
     }
     .content-isi2 .container h1{
         font-size: 28px;
@@ -159,7 +160,7 @@
        text-align: center;
     }
     .content-isi2 .container .carousel {
-        width: 450px;
+        width: 350px;
         margin-left: 10px;
     }
     .footer h1{
