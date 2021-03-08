@@ -150,7 +150,7 @@
         margin-bottom: 30px;
     }
     .content-isi .container img{
-        margin-left: -20px;
+        margin-left: -40px;
         width: 400px;
     }
     .content-isi2 .container h1{
@@ -160,7 +160,7 @@
        text-align: center;
     }
     .content-isi2 .container .carousel {
-        width: 350px;
+        width: 450px;
         margin-left: 10px;
     }
     .footer h1{
@@ -171,9 +171,6 @@
     }
     .footer .col-md-4{
         margin-top: 40px;
-    }
-    .wrapper .navbar-brand{
-        visibility: hidden;
     }
     
    
