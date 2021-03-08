@@ -172,6 +172,9 @@
     .footer .col-md-4{
         margin-top: 40px;
     }
+    .wrapper .navbar-brand{
+        visibility: hidden;
+    }
     
    
    
