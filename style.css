@@ -230,3 +230,20 @@
  }
 
 
+
+ /* contact.html */
+ .isi span{
+     color: #f1c111;
+ }
+.isi .row{
+    margin-top: 200px;
+}
+.isi p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.isi input{
+    width: 400px;
+    background-color: whitesmoke;
+}
+
